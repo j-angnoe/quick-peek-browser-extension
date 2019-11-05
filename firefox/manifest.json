@@ -1,0 +1,15 @@
+{
+    "name": "Quick Peek for Firefox",
+    "version": "0.0.2",
+    "short_name": "Quick Peek",
+    "manifest_version": 2,
+    "permissions" : [
+        "<all_urls>",
+        "tabs",
+        "contextMenus",
+        "webNavigation"
+    ],
+    "background" : {
+        "scripts" : ["/background.js"]
+    }
+}

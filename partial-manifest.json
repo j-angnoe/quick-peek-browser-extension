@@ -1,0 +1,11 @@
+{
+    "permissions" : [
+        "<all_urls>",
+        "tabs",
+        "contextMenus",
+        "webNavigation"
+    ],
+    "background" : {
+        "scripts" : ["$MODULEPATH/background.js"]
+    }
+}
