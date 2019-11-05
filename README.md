@@ -3,6 +3,9 @@
 Quick peek at links without leaving your 
 current browser tab. 
 
+## Installation
+- Install via Mozilla Addons: https://addons.mozilla.org/en-US/firefox/addon/quick-peek-for-firefox/
+
 ## How to use it:
 
 You can peek at urls by right-clicking (or cmd-click on MacOS) and selecting the item `Peek`. We also register the shortcut key `E` for quick peeking.
