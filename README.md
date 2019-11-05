@@ -9,7 +9,7 @@ You can peek at urls by right-clicking (or cmd-click on MacOS) and selecting the
 
 Right-click on a Link > Peek (or press `E`)
 
-![](docs/2019-11-05-10-25-12.png)
+![](docs/video.gif)
 
 - To visit the url, click on the preview
 - To discard the preview, press `ESCAPE` or `Q`
