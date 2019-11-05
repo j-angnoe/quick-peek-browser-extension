@@ -1,4 +1,4 @@
-# Peaky Extension
+# Quick Peek Browser Extension
 
 Quick peek at links without leaving your 
 current browser tab. 
@@ -27,6 +27,8 @@ An alternative method was also considered, namely
 using an iframe. In many cases the iframe option seemed problematic (https -> http, X-Frame-Options, etc), and these solutions have been dropped in favor
 of the current captureTab method. 
 
+## Tested on
+- Firefox 70
 
 
 
